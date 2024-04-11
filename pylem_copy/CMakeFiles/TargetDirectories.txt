@@ -1,0 +1,4 @@
+/home/users/scdobbs/pylem/CMakeFiles/rebuild_cache.dir
+/home/users/scdobbs/pylem/CMakeFiles/pypf.dir
+/home/users/scdobbs/pylem/CMakeFiles/edit_cache.dir
+/home/users/scdobbs/pylem/CMakeFiles/pyas.dir

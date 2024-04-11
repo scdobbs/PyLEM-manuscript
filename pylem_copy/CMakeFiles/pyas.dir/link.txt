@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -shared  -o pyas.so CMakeFiles/pyas.dir/pyas.cxx.o CMakeFiles/pyas.dir/pyasc.cpp.o  -Wl,-rpath,/home/groups/hilley/opt/anaconda3/envs/numscipy/lib /home/groups/hilley/opt/anaconda3/envs/numscipy/lib/libpython3.9.so 
